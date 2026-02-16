@@ -1,9 +1,0 @@
-/mnt/hdd/yinziqi/yinziqi/DEG/build/CMakeFiles/edit_cache.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/CMakeFiles/rebuild_cache.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/src/CMakeFiles/STKQ.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/src/CMakeFiles/STKQ_s.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/src/CMakeFiles/edit_cache.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/src/CMakeFiles/rebuild_cache.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/test/CMakeFiles/main.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/test/CMakeFiles/edit_cache.dir
-/mnt/hdd/yinziqi/yinziqi/DEG/build/test/CMakeFiles/rebuild_cache.dir

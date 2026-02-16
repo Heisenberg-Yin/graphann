@@ -1,9 +1,0 @@
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/src/CMakeFiles/STKQ.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/src/CMakeFiles/STKQ_s.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/test/CMakeFiles/main.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/test/CMakeFiles/edit_cache.dir
-/mnt/hdd/yinziqi/yinziqi/graphann-tkq/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir

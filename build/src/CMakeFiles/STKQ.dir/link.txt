@@ -1,2 +1,0 @@
-/usr/bin/ar qc libSTKQ.a CMakeFiles/STKQ.dir/builder.cpp.o CMakeFiles/STKQ.dir/component_candidate.cpp.o CMakeFiles/STKQ.dir/component_conn.cpp.o CMakeFiles/STKQ.dir/component_entry.cpp.o CMakeFiles/STKQ.dir/component_init.cpp.o CMakeFiles/STKQ.dir/component_load.cpp.o CMakeFiles/STKQ.dir/component_prune.cpp.o CMakeFiles/STKQ.dir/component_refine.cpp.o CMakeFiles/STKQ.dir/component_route.cpp.o CMakeFiles/STKQ.dir/component_search_entry.cpp.o CMakeFiles/STKQ.dir/nndescent.cpp.o CMakeFiles/STKQ.dir/rtree.cpp.o
-/usr/bin/ranlib libSTKQ.a
